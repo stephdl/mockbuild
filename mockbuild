@@ -8,6 +8,8 @@
     echo "you must give as argument the mock configuration"
     echo "   smeserver-9-x86_64-base smeserver-9-i386-base"
     echo "   smeserver-8-x86_64-base smeserver-8-i386-base"
+    echo "   epel-6-x86_64           epel-6-i386          "
+    echo "   epel-5-x86_64           epel-5-i386          "
     echo " mockbuild package.src.rpm  mock_configuration  "
     echo "################################################"
     exit
